@@ -1,4 +1,4 @@
-python-evoice-receipts
+python-einvoice-receipts
 ======================
 
-Python module for reading electronic receipts in Taiwan
+Python module for reading electronic invoices in Taiwan
